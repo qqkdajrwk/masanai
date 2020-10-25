@@ -1,5 +1,5 @@
-age=24
-if age<18:
-    print('청소년 할인.')
+age=20
+if age<30:
+    print('청년 할인.')
 else:
     print('성인')
